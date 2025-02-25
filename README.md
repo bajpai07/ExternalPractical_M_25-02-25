@@ -13,7 +13,7 @@ https://varadbhogayata.github.io/
 
 <h3>Features</h3>
 <li>A hero section that provides a brief introduction to you and your background.</li>
-<li>A resume page that lists your education, work experience, skills, and other relevant information (you can link to Capstone project 1).</li>
+<li>A resume page that lists your education, work experience, skills, and other relevant information .</li>
 <li>A section that showcases any projects or work that you have done in the past.</li>
 <li>An about me section that provides additional information about you and your interests.</li>
 <li>A contact me section that includes information for users to get in touch with you.</li>
